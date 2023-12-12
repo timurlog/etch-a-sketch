@@ -25,6 +25,22 @@ body {
   font-family: "Chillhoud";
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #DCDCDC;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #AAAAAA;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555555;
+}
+
 /* ########### HEADER ########### */
 header {
   width: 100%;
